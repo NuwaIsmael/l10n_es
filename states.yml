@@ -1,33 +1,209 @@
 ---
-- name: Tasmania
+- name: Álava
+  country_id: "1"
+  id: "1"
+  abbr: Alava
+- name: Albacete
   country_id: "12"
-  id: "101"
-  abbr: Tas
-- name: Victoria
+  id: "2"
+  abbr: Albacete
+- name: Alacant
   country_id: "12"
-  id: "102"
-  abbr: Vic
-- name: New South Wales
+  id: "3"
+  abbr: Alacant
+- name: Almería
   country_id: "12"
-  id: "103"
-  abbr: NSW
-- name: ACT
+  id: "4"
+  abbr: Almería
+- name: Ávila
   country_id: "12"
-  id: "104"
-  abbr: ACT
-- name: Queensland
+  id: "5"
+  abbr: Ávila
+- name: Badajoz
   country_id: "12"
-  id: "105"
-  abbr: QLD
-- name: South Australia
+  id: "6"
+  abbr: Badajoz
+- name: Illes Balears
   country_id: "12"
-  id: "106"
-  abbr: SA
-- name: Northern Territory
+  id: "7"
+  abbr: Illes Balears
+- name: Barcelona
   country_id: "12"
-  id: "107"
-  abbr: NT
-- name: Western Australia
+  id: "8"
+  abbr: BCN
+- name: Burgos
   country_id: "12"
-  id: "108"
-  abbr: WA
+  id: "9"
+  abbr: Burgos
+- name: Cáceres
+  country_id: "12"
+  id: "10"
+  abbr: Cáceres
+- name: Cádiz
+  country_id: "12"
+  id: "11"
+  abbr: Cádiz
+- name: Castelló
+  country_id: "12"
+  id: "12"
+  abbr: Castelló
+- name: Ciudad Real
+  country_id: "12"
+  id: "13"
+  abbr: Ciudad Real
+- name: Córdoba
+  country_id: "12"
+  id: "14"
+  abbr: Córdoba
+- name: A Coruña
+  country_id: "12"
+  id: "15"
+  abbr: A Coruña
+- name: Cuenca
+  country_id: "12"
+  id: "16"
+  abbr: Cuenca
+- name: Girona
+  country_id: "12"
+  id: "17"
+  abbr: Girona
+- name: Granada
+  country_id: "12"
+  id: "18"
+  abbr: Granada
+- name: Guadalajara
+  country_id: "12"
+  id: "19"
+  abbr: Guardalajara
+- name: Gipuzkoa
+  country_id: "12"
+  id: "20"
+  abbr: Gipuzkoa
+- name: Huelva
+  country_id: "12"
+  id: "21"
+  abbr: Huelva
+- name: Huesca
+  country_id: "12"
+  id: "22"
+  abbr: Huesca
+- name: Jaén
+  country_id: "12"
+  id: "23"
+  abbr: Jaén
+- name: León
+  country_id: "12"
+  id: "24"
+  abbr: León
+- name: Lleida
+  country_id: "12"
+  id: "25"
+  abbr: Lleida
+- name: La Rioja
+  country_id: "12"
+  id: "26"
+  abbr: La Rioja
+- name: Lugo
+  country_id: "12"
+  id: "27"
+  abbr: Lugo
+- name: Madrid
+  country_id: "12"
+  id: "28"
+  abbr: Madrid
+- name: Málaga
+  country_id: "12"
+  id: "29"
+  abbr: Málaga
+- name: Murcia
+  country_id: "12"
+  id: "30"
+  abbr: Murcia
+- name: Nafarroa
+  country_id: "12"
+  id: "31"
+  abbr: Nafarroa
+- name: Ourense
+  country_id: "12"
+  id: "32"
+  abbr: Ourense
+- name: Asturias
+  country_id: "12"
+  id: "33"
+  abbr: Asturias
+- name: Palencia
+  country_id: "12"
+  id: "34"
+  abbr: Palencia
+- name: Las Palmas
+  country_id: "12"
+  id: "35"
+  abbr: Las Palmas
+- name: Pontevedra
+  country_id: "12"
+  id: "36"
+  abbr: Pontevedra
+- name: Salamanca
+  country_id: "12"
+  id: "37"
+  abbr: Salamanca
+- name: Sta. Cruz de Tenerife
+  country_id: "12"
+  id: "38"
+  abbr: Sta. Cruz de Tenerife
+- name: Cantabria
+  country_id: "12"
+  id: "39"
+  abbr: Cantabria
+- name: Segovia
+  country_id: "12"
+  id: "40"
+  abbr: Segovia
+- name: Sevilla
+  country_id: "12"
+  id: "41"
+  abbr: Sevilla
+- name: Soria
+  country_id: "12"
+  id: "42"
+  abbr: Soria
+- name: Tarragona
+  country_id: "12"
+  id: "43"
+  abbr: Tarragona
+- name: Teruel
+  country_id: "12"
+  id: "44"
+  abbr: Teruel
+- name: Toledo
+  country_id: "12"
+  id: "45"
+  abbr: Toledo
+- name: Valéncia
+  country_id: "12"
+  id: "46"
+  abbr: Valéncia
+- name: Valladolid
+  country_id: "12"
+  id: "47"
+  abbr: Valladolid
+- name: Bizkaia
+  country_id: "12"
+  id: "48"
+  abbr: Bizkaia
+- name: Zamora
+  country_id: "12"
+  id: "49"
+  abbr: Zamora
+- name: Zaragoza
+  country_id: "12"
+  id: "50"
+  abbr: Zaragoza
+- name: Ceuta
+  country_id: "12"
+  id: "51"
+  abbr: Ceuta
+- name: Melilla
+  country_id: "12"
+  id: "52"
+  abbr: Melilla
