@@ -1,6 +1,6 @@
 ---
 - name: Álava
-  country_id: "1"
+  country_id: "12"
   id: "1"
   abbr: Alava
 - name: Albacete
